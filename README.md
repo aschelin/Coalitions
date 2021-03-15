@@ -1,4 +1,4 @@
 # Coalitions
 <p align="center">
-  <img src="partycoalition.PNG" >
+  <img src="partycoalition.png" >
 </p>
