@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="Banners.png" >
+</p>
 # Political Coalitions
 
 The political spectrum in Brazil is quite complex. We have approximately 30 political parties. They can be classified by their ideology, but that can be quite tricky. There are the ones who clearly belong to the right and left sides of the spectrum. Then there are those at the center, most of which are of the opportunistic type – their ideological pendulum swings according to those in power.
